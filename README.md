@@ -21,4 +21,4 @@ netaccess -u <username> -p <password>
 [**Cibin Joseph**](https://github.com/cibinjoseph/), Aerospace Engineering, IIT Madras
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
