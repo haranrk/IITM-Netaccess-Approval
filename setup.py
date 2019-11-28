@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
      name='netaccess',  
-     version='0.0.1',
+     version='1.0.0',
      author="Haran Rajkumar",
      author_email="haranrajkumar97@gmail.com",
      description="CLI for IIT Madras netaccess",
