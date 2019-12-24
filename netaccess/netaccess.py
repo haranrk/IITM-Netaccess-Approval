@@ -35,7 +35,6 @@ def main():
         if (password=="Password"):
             print("Password has not been set in code. Enter LDAP Password")
             password=getpass.getpass()
-        print(password)
 
         br.form["userLogin"]=username
         br.form["userPassword"]=password
